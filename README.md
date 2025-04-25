@@ -9,7 +9,7 @@ Elle offre une interface fluide pour les utilisateurs et une gestion complète p
 - 🔍 Recherche intelligente par marque, carburant, type de transmission, etc.
 - 📸 Fiches véhicules avec galerie d’images
 - 📅 Système de disponibilité et réservation
-- 🛒 Ajout au panier ou demande de location
+- 🛒 Ajout une demande de location
 - 🔐 Espace d'administration sécurisé :
   - CRUD complet sur les véhicules
   - Upload image principale + plusieurs images en galerie
